@@ -1,0 +1,536 @@
+/* Developing Schizophrenia */
+body, html, #loading, .loading {
+  background-color: #202124 !important;
+  color: #e8eaed !important;
+}
+
+body:not(.gmail-dark-mode), html:not(.gmail-dark-mode) {
+  background-color: #202124 !important;
+  color: #e8eaed !important;
+}
+
+
+#loading, .gmail_loading, .loading, [role="progressbar"] {
+  background-color: #202124 !important;
+  color: #e8eaed !important;
+}
+
+
+.gb_uc, .gb_g, .gb_h {
+  background-color: #202124 !important;
+  color: #e8eaed !important;
+}
+
+
+.nH, .no, div[role="main"], main {
+  background-color: #202124 !important;
+}
+
+
+body, html {
+  background-color: #202124 !important;
+  color: #e8eaed !important;
+}
+
+
+.nH, .no, .nH .no {
+  background-color: #202124 !important;
+  color: #e8eaed !important;
+}
+
+
+.TK .TO, .TK .TO .nZ, .aim .ain, .bhZ.bym {
+  background-color: #292a2d !important;
+  color: #e8eaed !important;
+}
+
+
+.bAw, .bAw .aKh, .aKh, .bq9 {
+  background-color: #292a2d !important;
+  color: #e8eaed !important;
+}
+
+
+.brC-aT5-aOt-Jw, .brC-aT5-aOt-Jw .aKh {
+  background-color: #292a2d !important;
+}
+
+
+.aKh, .aKh .aKs, .aKs {
+  background-color: #292a2d !important;
+  color: #e8eaed !important;
+}
+
+
+.bq9, .bq9 .aKh, .bq9 iframe {
+  background-color: #292a2d !important;
+}
+
+
+.T-I.T-I-KE.L3 {
+  background-color: #1a73e8 !important;
+  color: white !important;
+  border: 1px solid #1a73e8 !important;
+}
+
+
+.UI, .Cp, .aeF {
+  background-color: #202124 !important;
+  color: #e8eaed !important;
+}
+
+
+.zA, .yW, .zA.yO, .zA.zE, .zE {
+  background-color: #292a2d !important;
+  color: #e8eaed !important;
+  border-bottom: none !important;
+  border: none !important;
+}
+
+
+.zA:hover, .yW:hover, .zE:hover {
+  background-color: #292a2d !important;
+  border: none !important;
+}
+
+
+.zA.x7, .zA.zE, .zE.x7 {
+  background-color: #3c4043 !important;
+  border: none !important;
+}
+
+
+.zE, .zA.zE {
+  background-color: #292a2d !important;
+}
+
+.zE:hover, .zA.zE:hover {
+  background-color: #3c4043 !important;
+}
+
+
+.Cp .zA, .UI .zA, .ae4 .zA {
+  border: none !important;
+  border-bottom: none !important;
+  border-top: none !important;
+}
+
+
+.Cp, .UI, .ae4 {
+  border: none !important;
+}
+
+
+tr.zA, tr.yW {
+  border: none !important;
+  border-bottom: none !important;
+}
+
+
+.zA + .zA, .yW + .yW {
+  margin-top: 1px !important;
+}
+
+
+.bog, .y2 {
+  color: #e8eaed !important;
+}
+
+
+.yW .yX .af, .zA .yX .af {
+  color: #e8eaed !important;
+}
+
+
+.bog .y6, .y6 {
+  color: #e8eaed !important;
+}
+
+
+.y2, .bog .y2 {
+  color: #9aa0a6 !important;
+}
+
+
+.xY .xW, .xS {
+  color: #9aa0a6 !important;
+}
+
+
+.zE .bog, .zE .y6, .zE .yX .af, .zE .bog .y6 {
+  font-weight: bold !important;
+}
+
+
+.yW .bog, .yW .y6, .yW .yX .af, .yW .bog .y6 {
+  font-weight: normal !important;
+}
+
+
+.zE, .zA.zE, tr.zE, tr.zA.zE {
+  background-color: #292a2d !important;
+  background: #292a2d !important;
+}
+
+
+.zE td, .zA.zE td, .zE .PF, .zA.zE .PF {
+  background-color: #292a2d !important;
+  background: #292a2d !important;
+}
+
+
+tr.zA, tr.yW, tr.zE, .zA, .yW, .zE {
+  background-color: #292a2d !important;
+  background: #292a2d !important;
+}
+
+
+.ii.gt, .a3s.aiL, .ii.gt .a3s.aiL {
+  background-color: #202124 !important;
+  color: #e8eaed !important;
+}
+
+
+.go .gD, .hP, .hN {
+  background-color: #292a2d !important;
+  color: #e8eaed !important;
+}
+
+
+.gb_2e.gb_R, .gb_2e {
+  background-color: #292a2d !important;
+  color: #e8eaed !important;
+  border: 1px solid #5f6368 !important;
+}
+
+.gb_2e input {
+  background-color: #292a2d !important;
+  color: #e8eaed !important;
+}
+
+
+.gb_jd, .gb_df, form[role="search"] {
+  background-color: #292a2d !important;
+  color: #e8eaed !important;
+}
+
+
+.gstl_50, .gstt, .gsib_a, .gb_te {
+  background-color: #292a2d !important;
+}
+
+
+.gb_se, .aJh, #gs_lc50 {
+  background-color: #292a2d !important;
+}
+
+
+.gssb_c, .gssb_f, .gssb_e, .gssb_n {
+  background-color: #292a2d !important;
+  color: #e8eaed !important;
+}
+
+
+.gb_Be, .gb_Ee, .gb_Ce, .gb_Fe {
+  background-color: transparent !important;
+  color: #e8eaed !important;
+}
+
+.gb_Be:hover, .gb_Ee:hover, .gb_Ce:hover, .gb_Fe:hover {
+  background-color: #3c4043 !important;
+}
+
+
+.ar7, .G-Ni, .G-atb {
+  background-color: #292a2d !important;
+  color: #e8eaed !important;
+}
+
+
+/* .T-I, .T-I-atl {
+  background-color: #3c4043 !important;
+  color: #e8eaed !important;
+  border: 1px solid #5f6368 !important;
+} */
+
+.T-I:hover {
+  background-color: #48494e !important;
+}
+
+
+a, .aZo {
+  color: #8ab4f8 !important;
+}
+
+
+input, textarea, .editable {
+  background-color: #292a2d !important;
+  color: #e8eaed !important;
+  border: 1px solid #5f6368 !important;
+}
+
+
+.J-M, .SK.AX, .b7.J-M {
+  background-color: #292a2d !important;
+  color: #e8eaed !important;
+  border: 1px solid #5f6368 !important;
+}
+
+
+.ar, .at {
+  background-color: #3c4043 !important;
+  color: #e8eaed !important;
+}
+
+
+.kv, .kx {
+  background-color: #202124 !important;
+  border-left: 3px solid #1a73e8 !important;
+}
+
+
+.Kj-JD, .Kj-JD-K7, .ZF-z6, .ZF-zT {
+  background-color: #292a2d !important;
+  color: #e8eaed !important;
+}
+
+
+.T-KT, .T-KT-Jp, .qj .pk .T-KT {
+  color: #fbbc04 !important;
+  opacity: 0.9 !important;
+  text-shadow: 0 0 2px #ffd700, 0 0 4px #ffd700 !important;
+  filter: drop-shadow(0 0 1px #ffd700) !important;
+}
+
+.T-KT:hover {
+  color: #fdd663 !important;
+  opacity: 1 !important;
+  text-shadow: 0 0 3px #ffd700, 0 0 6px #ffd700 !important;
+  filter: drop-shadow(0 0 2px #ffd700) !important;
+}
+
+
+.T-KT.aXw {
+  color: #9aa0a6 !important;
+  opacity: 0.6 !important;
+  text-shadow: 0 0 1px #ffd700 !important;
+  filter: drop-shadow(0 0 0.5px #ffd700) !important;
+}
+
+.T-KT.aXw:hover {
+  color: #fbbc04 !important;
+  opacity: 0.8 !important;
+  text-shadow: 0 0 2px #ffd700, 0 0 4px #ffd700 !important;
+  filter: drop-shadow(0 0 1px #ffd700) !important;
+}
+
+/* Checkboxes - Make them visible with better contrast
+input[type="checkbox"], .T-Jo {
+  background-color: #3c4043 !important;
+  border: 2px solid #5f6368 !important;
+  opacity: 1 !important;
+} */
+
+input[type="checkbox"]:checked, .T-Jo.aXjCH {
+  background-color: #1a73e8 !important;
+  border-color: #1a73e8 !important;
+}
+
+/* Selection checkboxes in email list
+.oZ-jc.T-Jo, .PF.xY .T-Jo {
+  background-color: #3c4043 !important;
+  border: 2px solid #5f6368 !important;
+  border-radius: 2px !important;
+} */
+
+.oZ-jc.T-Jo.aXjCH, .PF.xY .T-Jo.aXjCH {
+  background-color: #1a73e8 !important;
+  border-color: #1a73e8 !important;
+}
+
+
+.Wg, .by1 {
+  color: #fbbc04 !important;
+}
+
+
+.aZo .aZn, .yf {
+  color: #9aa0a6 !important;
+  opacity: 0.8 !important;
+}
+
+
+.yW .bog, .yW .aXjCH {
+  color: #1a73e8 !important;
+}
+
+
+/* .ar9, .T-I.J-J5-Ji.T-I-Js-IF, .T-I.J-J5-Ji.T-I-Js-Gs {
+  color: #9aa0a6 !important;
+} */
+
+.ar9:hover, .T-I.J-J5-Ji.T-I-Js-IF:hover, .T-I.J-J5-Ji.T-I-Js-Gs:hover {
+  color: #e8eaed !important;
+  background-color: #3c4043 !important;
+}
+
+
+div[style*="background-color: rgb(255, 255, 255)"] {
+  background-color: #202124 !important;
+}
+
+div[style*="background-color: white"] {
+  background-color: #202124 !important;
+}
+
+
+[style*="background: white"], 
+[style*="background: #fff"], 
+[style*="background: #ffffff"],
+[style*="background-color: #fff"],
+[style*="background-color: #ffffff"] {
+  background-color: #202124 !important;
+}
+
+
+table, td, th, tr {
+  background-color: inherit !important;
+}
+
+
+.gstl_50, .gstl_50 td, .gstl_50 th, .gstl_50 tr,
+.gstt, .gstt td, .gstt th, .gstt tr {
+  background-color: #292a2d !important;
+}
+
+
+form[id*="search"], form[role="search"], 
+form[id*="search"] *, form[role="search"] * {
+  background-color: #292a2d !important;
+}
+
+
+.aKh, .bq9, .bAw, .brC-aT5-aOt-Jw, 
+[role="complementary"], .GB3L-QEDB, .nH.aKh {
+  background-color: #292a2d !important;
+  color: #e8eaed !important;
+}
+
+
+div[class*="sidebar"], div[class*="panel"], div[class*="side"] {
+  background-color: #292a2d !important;
+}
+
+
+.gb_g, .gb_h, .gb_i, .gb_j {
+  background-color: #292a2d !important;
+  color: #e8eaed !important;
+}
+
+
+.aKh div, .bq9 div, .bAw div {
+  background-color: inherit !important;
+}
+
+
+[data-target="sidenav"], .sidenav, .side-panel {
+  background-color: #292a2d !important;
+  color: #e8eaed !important;
+}
+
+
+[style*="color: rgb(255, 255, 255)"] {
+  color: #e8eaed !important;
+}
+
+
+[style*="color: rgb(0, 0, 0)"], [style*="color: black"] {
+  color: #e8eaed !important;
+}
+
+
+[style*="color: #000"],
+[style*="color: #000000"] {
+  color: #e8eaed !important;
+}
+
+
+.gmail_loading, #loading, .loading-screen {
+  background-color: #202124 !important;
+  color: #e8eaed !important;
+}
+
+
+.gb_Xa, .gb_Za, .gb_Ba {
+  background-color: #202124 !important;
+  color: #e8eaed !important;
+}
+
+
+::-webkit-scrollbar {
+  width: 12px;
+}
+
+::-webkit-scrollbar-track {
+  background: #202124;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #5f6368;
+  border-radius: 6px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #80868b;
+}
+
+
+.gmail_signature {
+  color: #e8eaed !important;
+}
+
+
+.aZo, .aZp {
+  background-color: #292a2d !important;
+  color: #e8eaed !important;
+  border: 1px solid #5f6368 !important;
+}
+
+
+.nH.nn, .nH.nn .no {
+  background-color: #292a2d !important;
+  color: #e8eaed !important;
+}
+
+
+.gb_uc .gb_g {
+  color: #e8eaed !important;
+}
+
+
+.TK .TO .nZ .n0, .aim .ain .J8, .TO.NZ .n0 {
+  color: #e8eaed !important;
+}
+
+.TK .TO .nZ .n0:hover, .aim .ain .J8:hover {
+  background-color: #35363a !important;
+}
+
+
+.HM .Im, .Am .Im {
+  background-color: #292a2d !important;
+  color: #e8eaed !important;
+}
+
+
+.aoD.hl, .aoT {
+  background-color: #292a2d !important;
+  color: #e8eaed !important;
+  border-bottom: 1px solid #5f6368 !important;
+}
+
+
+.vR, .vT, .vM {
+  background-color: #292a2d !important;
+  color: #e8eaed !important;
+}
